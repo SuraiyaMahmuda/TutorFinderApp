@@ -80,11 +80,11 @@
 
 ## 📊 Snapshots
 
-##** 📂 Opening Splash Screen**
+##Opening Splash Screen
 
 ![Opening Splash Screen](images/Opening_splash_screen.jpg)
 
-##** 🔄 Login and Registration page**
+## 🔄 Login and Registration page
 
 ![P](Login_and_egistration_page.png)
 

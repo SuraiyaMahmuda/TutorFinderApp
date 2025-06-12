@@ -78,9 +78,101 @@
 
 ---
 
+## 📊 Snapshots
 
+##** 📂 Opening Splash Screen**
 
-Opening Splash screen 
+![P](!Opening_splash_screen.png)
+
+##** 🔄 Login and Registration page**
+
+![P](ml2.png)
+
+##** 📉 Complete Registration Page**
+
+![P](ml6.png)
+
+##** 🔍 Reset Password**
+
+![P](ml7.png)
+
+##** 📂 Reset Password via Email**
+
+![P](!Opening_splash_screen.png)
+
+##** 🔄 Enter New password**
+
+![P](ml2.png)
+
+##** 📉 Updated password**
+
+![P](ml6.png)
+
+##** 🔍 Home Page**
+
+![P](ml7.png)
+
+##** 📂 Search By Post Purpose**
+
+![P](!Opening_splash_screen.png)
+
+##** 🔄 Search By Location or Area**
+
+![P](ml2.png)
+
+##** 📉 Student Dashboard**
+
+![P](ml6.png)
+
+##** 🔍 Student Profile Section**
+
+![P](ml7.png)
+
+##** 📂 Select Student Profile Picture by Gender and Catagories**
+
+![P](!Opening_splash_screen.png)
+
+##** 🔄 Update Student Profile Picture**
+
+![P](ml2.png)
+
+##** 📉 Update Student Profile Information and Change Introduction Video**
+
+![P](ml6.png)
+
+##** 🔍 Change introductory video and select from your local files**
+
+![P](ml7.png)
+
+##** 📂 Student Dashboard’s Your Adds Section**
+
+![P](!Opening_splash_screen.png)
+
+##** 🔄 Student Dashboard’s Application Section**
+
+![P](ml2.png)
+
+##** 📉 Student can call Teacher who applied for his post**
+
+![P](ml6.png)
+
+##** 🔍 Teacher’s Dashboard**
+
+![P](ml7.png)
+
+##** 📂 Teacher Dashboard’s Your add section**
+
+![P](!Opening_splash_screen.png)
+
+##** 🔄 Teacher Apply Students Post can be send his CV**
+
+![P](ml2.png)
+
+##** 📉 Can also chat with the post creator through Whatsapp**
+
+![P](ml6.png)
+
+---
 
 ## 📊 App Performance & Metrics
 

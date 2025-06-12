@@ -86,39 +86,35 @@
 
 ##** 🔄 Login and Registration page**
 
-![P](ml2.png)
+![P](Login_and_egistration_page.png)
 
 ##** 📉 Complete Registration Page**
 
-![P](ml6.png)
+![P](Complete_registration_page.png)
 
 ##** 🔍 Reset Password**
 
-![P](ml7.png)
+![P](Reset_password.png)
 
 ##** 📂 Reset Password via Email**
 
-![P](!Opening_splash_screen.png)
-
-##** 🔄 Enter New password**
-
-![P](ml2.png)
+![P](Reset_password_via_email.png)
 
 ##** 📉 Updated password**
 
-![P](ml6.png)
+![P](Updated_password.png)
 
 ##** 🔍 Home Page**
 
-![P](ml7.png)
+![P](Home_page7.png)
 
 ##** 📂 Search By Post Purpose**
 
-![P](!Opening_splash_screen.png)
+![P](Search_by_post_purpose.png)
 
 ##** 🔄 Search By Location or Area**
 
-![P](ml2.png)
+![P](Search_by_location_or_area.png)
 
 ##** 📉 Student Dashboard**
 
@@ -142,15 +138,15 @@
 
 ##** 🔍 Change introductory video and select from your local files**
 
-![P](ml7.png)
+![P](Change_introductory_video_and_select_from_your_local_files.png)
 
 ##** 📂 Student Dashboard’s Your Adds Section**
 
-![P](!Opening_splash_screen.png)
+![P](Student_Dashboard’s_Your_adds_section.png)
 
 ##** 🔄 Student Dashboard’s Application Section**
 
-![P](ml2.png)
+![P](Student_Dashboard’s_Application_Section.png)
 
 ##** 📉 Student can call Teacher who applied for his post**
 
@@ -158,19 +154,19 @@
 
 ##** 🔍 Teacher’s Dashboard**
 
-![P](ml7.png)
+![P](Teacher’s_Dashboard.png)
 
 ##** 📂 Teacher Dashboard’s Your add section**
 
-![P](!Opening_splash_screen.png)
+![P](Teacher_Dashboard’s_Your_add_section.png)
 
 ##** 🔄 Teacher Apply Students Post can be send his CV**
 
-![P](ml2.png)
+![P](Teacher_Apply_Students_Post_can_be_send_his_cv.png)
 
 ##** 📉 Can also chat with the post creator through Whatsapp**
 
-![P](ml6.png)
+![P](Can_also_chat_with_the_post_creator_through_Whatsapp.png)
 
 ---
 

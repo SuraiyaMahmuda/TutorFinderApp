@@ -6,15 +6,13 @@
 
 ## 🧰 Tools & Technologies Used
 
-| Category       | Tools/Frameworks                             |
-|----------------|----------------------------------------------|
-| Language       | Java                                         |
-| Framework      | Android SDK (Native)                         |
-| Database       | Firebase Firestore / Firebase Realtime DB    |
-| Authentication | Firebase Authentication                      |
-| Messaging      | Firebase Cloud Messaging (FCM)               |
-| UI Components  | XML Layouts, Material Design                 |
-| Version Control| Git + GitHub                                 |
+- **Language**: Java  
+- **Framework**: Android SDK (Native)  
+- **Database**: Firebase Firestore / Firebase Realtime Database  
+- **Authentication**: Firebase Authentication  
+- **Messaging**: Firebase Cloud Messaging (FCM)  
+- **UI Components**: XML Layouts, Material Design  
+- **Version Control**: Git and GitHub  
 
 ---
 

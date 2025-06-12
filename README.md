@@ -78,6 +78,10 @@
 
 ---
 
+
+
+Opening Splash screen 
+
 ## 📊 App Performance & Metrics
 
 - **User Signup/Signin Success Rate**: ~99%  

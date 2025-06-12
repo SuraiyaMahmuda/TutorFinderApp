@@ -29,6 +29,11 @@
 
 ---
 
+<p align="center">
+  <img src="Desktop/person3.png" alt="Screenshot" width="400" />
+</p>
+
+
 ## 🛠️ Installation
 
 1. Clone the repository:

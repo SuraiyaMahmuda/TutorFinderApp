@@ -104,7 +104,4 @@
 
 - **🌎 Multi-language Support**  
   Expand the UI/UX to support Bengali and English, with RTL and LTR layouts as needed.
-
----
-
    

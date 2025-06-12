@@ -82,7 +82,7 @@
 
 ##** 📂 Opening Splash Screen**
 
-![P](!Opening_splash_screen.jpg)
+![Opening Splash Screen](images/Opening_splash_screen.jpg)
 
 ##** 🔄 Login and Registration page**
 

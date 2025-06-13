@@ -132,7 +132,7 @@
 
 ![P](Student_Dashboard’s_Application_Section.jpg)
 
-** 📉 Student can call Teacher who applied for his post**
+## 📉 Student can call Teacher who applied for his post
 
 ![P](Student_can_call_Teacher_who_applied_for_his_post.jpg)
 

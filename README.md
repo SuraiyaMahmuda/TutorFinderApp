@@ -82,11 +82,11 @@
 
 ##Opening Splash Screen
 
-![Opening Splash Screen](images/Opening_splash_screen.jpg)
+![Opening Splash Screen](Opening_splash_screen.jpg)
 
 ## 🔄 Login and Registration page
 
-![P](Login_and_egistration_page.png)
+![P](Login_and_egistration_page.jpg)
 
 ##** 📉 Complete Registration Page**
 

@@ -88,23 +88,23 @@
 
 ![P](Login_and_egistration_page.jpg)
 
-##** 📉 Complete Registration Page**
+## 📉 Complete Registration Page
 
 ![P](Complete_registration_page.jpg)
 
-##** 🔍 Reset Password**
+##** 🔍 Reset Password
 
 ![P](Reset_password.jpg)
 
-##** 📂 Reset Password via Email**
+## 📂 Reset Password via Email
 
 ![P](Reset_password_via_email.jpg)
 
-##** 📉 Updated password**
+## 📉 Updated password
 
 ![P](Updated_password.jpg)
 
-##** 🔍 Home Page**
+## 🔍 Home Page
 
 ![P](Home_page7.jpg)
 

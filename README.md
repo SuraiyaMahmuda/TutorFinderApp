@@ -92,7 +92,7 @@
 
 ![P](Complete_registration_page.jpg)
 
-##** 🔍 Reset Password
+## 🔍 Reset Password
 
 ![P](Reset_password.jpg)
 
@@ -106,13 +106,13 @@
 
 ## 🔍 Home Page
 
-![P](Home_page7.jpg)
+![P](Home_page.jpg)
 
-##** 📂 Search By Post Purpose**
+## 📂 Search By Post Purpose
 
 ![P](Search_by_post_purpose.jpg)
 
-##** 🔄 Search By Location or Area**
+## 🔄 Search By Location or Area
 
 ![P](Search_by_location_or_area.jpg)
 
@@ -136,15 +136,15 @@
 
 ![P](ml6.png)
 
-##** 🔍 Change introductory video and select from your local files**
+## 🔍 Change introductory video and select from your local files
 
 ![P](Change_introductory_video_and_select_from_your_local_files.jpg)
 
-##** 📂 Student Dashboard’s Your Adds Section**
+## 📂 Student Dashboard’s Your Adds Section
 
 ![P](Student_Dashboard’s_Your_adds_section.jpg)
 
-##** 🔄 Student Dashboard’s Application Section**
+## 🔄 Student Dashboard’s Application Section
 
 ![P](Student_Dashboard’s_Application_Section.jpg)
 
@@ -152,19 +152,19 @@
 
 ![P](ml6.png)
 
-##** 🔍 Teacher’s Dashboard**
+## 🔍 Teacher’s Dashboard
 
 ![P](Teacher’s_Dashboard.jpg)
 
-##** 📂 Teacher Dashboard’s Your add section**
+## 📂 Teacher Dashboard’s Your add section
 
 ![P](Teacher_Dashboard’s_Your_add_section.jpg)
 
-##** 🔄 Teacher Apply Students Post can be send his CV**
+## 🔄 Teacher Apply Students Post can be send his CV
 
 ![P](Teacher_Apply_Students_Post_can_be_send_his_cv.jpg)
 
-##** 📉 Can also chat with the post creator through Whatsapp**
+## 📉 Can also chat with the post creator through Whatsapp
 
 ![P](Can_also_chat_with_the_post_creator_through_Whatsapp.jpg)
 

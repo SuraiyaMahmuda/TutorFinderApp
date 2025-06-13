@@ -116,25 +116,9 @@
 
 ![P](Search_by_location_or_area.jpg)
 
-##** 📉 Student Dashboard**
+## 📂 Select Student Profile Picture by Gender and Catagories
 
-![P](ml6.png)
-
-##** 🔍 Student Profile Section**
-
-![P](ml7.png)
-
-##** 📂 Select Student Profile Picture by Gender and Catagories**
-
-![P](!Opening_splash_screen.jpg)
-
-##** 🔄 Update Student Profile Picture**
-
-![P](ml2.png)
-
-##** 📉 Update Student Profile Information and Change Introduction Video**
-
-![P](ml6.png)
+![P](Select_student_profile_picture_by_gender_and_catagories.jpg)
 
 ## 🔍 Change introductory video and select from your local files
 
@@ -150,7 +134,7 @@
 
 ##** 📉 Student can call Teacher who applied for his post**
 
-![P](ml6.png)
+![P](Student_can_call_Teacher_who_applied_for_his_post.jpg)
 
 ## 🔍 Teacher’s Dashboard
 

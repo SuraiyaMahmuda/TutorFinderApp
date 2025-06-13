@@ -80,7 +80,7 @@
 
 ## 📊 Snapshots
 
-##Opening Splash Screen
+## 📊 Opening Splash Screen
 
 ![Opening Splash Screen](Opening_splash_screen.jpg)
 
@@ -90,31 +90,31 @@
 
 ##** 📉 Complete Registration Page**
 
-![P](Complete_registration_page.png)
+![P](Complete_registration_page.jpg)
 
 ##** 🔍 Reset Password**
 
-![P](Reset_password.png)
+![P](Reset_password.jpg)
 
 ##** 📂 Reset Password via Email**
 
-![P](Reset_password_via_email.png)
+![P](Reset_password_via_email.jpg)
 
 ##** 📉 Updated password**
 
-![P](Updated_password.png)
+![P](Updated_password.jpg)
 
 ##** 🔍 Home Page**
 
-![P](Home_page7.png)
+![P](Home_page7.jpg)
 
 ##** 📂 Search By Post Purpose**
 
-![P](Search_by_post_purpose.png)
+![P](Search_by_post_purpose.jpg)
 
 ##** 🔄 Search By Location or Area**
 
-![P](Search_by_location_or_area.png)
+![P](Search_by_location_or_area.jpg)
 
 ##** 📉 Student Dashboard**
 
@@ -126,7 +126,7 @@
 
 ##** 📂 Select Student Profile Picture by Gender and Catagories**
 
-![P](!Opening_splash_screen.png)
+![P](!Opening_splash_screen.jpg)
 
 ##** 🔄 Update Student Profile Picture**
 
@@ -138,15 +138,15 @@
 
 ##** 🔍 Change introductory video and select from your local files**
 
-![P](Change_introductory_video_and_select_from_your_local_files.png)
+![P](Change_introductory_video_and_select_from_your_local_files.jpg)
 
 ##** 📂 Student Dashboard’s Your Adds Section**
 
-![P](Student_Dashboard’s_Your_adds_section.png)
+![P](Student_Dashboard’s_Your_adds_section.jpg)
 
 ##** 🔄 Student Dashboard’s Application Section**
 
-![P](Student_Dashboard’s_Application_Section.png)
+![P](Student_Dashboard’s_Application_Section.jpg)
 
 ##** 📉 Student can call Teacher who applied for his post**
 
@@ -154,19 +154,19 @@
 
 ##** 🔍 Teacher’s Dashboard**
 
-![P](Teacher’s_Dashboard.png)
+![P](Teacher’s_Dashboard.jpg)
 
 ##** 📂 Teacher Dashboard’s Your add section**
 
-![P](Teacher_Dashboard’s_Your_add_section.png)
+![P](Teacher_Dashboard’s_Your_add_section.jpg)
 
 ##** 🔄 Teacher Apply Students Post can be send his CV**
 
-![P](Teacher_Apply_Students_Post_can_be_send_his_cv.png)
+![P](Teacher_Apply_Students_Post_can_be_send_his_cv.jpg)
 
 ##** 📉 Can also chat with the post creator through Whatsapp**
 
-![P](Can_also_chat_with_the_post_creator_through_Whatsapp.png)
+![P](Can_also_chat_with_the_post_creator_through_Whatsapp.jpg)
 
 ---
 
